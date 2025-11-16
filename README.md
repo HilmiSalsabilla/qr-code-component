@@ -28,7 +28,7 @@ Here is a preview of my finished project:
 ### Links
 
 - **Solution URL:** <!-- Add your Frontend Mentor solution URL here -->
-- **Live Site URL:** <!-- Add your live hosted URL here (e.g., Netlify, GitHub Pages) -->
+- **Live Site URL:** [GitHub Pages](https://hilmisalsabilla.github.io/qr-code-component/)
 
 ---
 
